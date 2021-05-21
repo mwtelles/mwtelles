@@ -1,5 +1,5 @@
 # <center>***Hi👋, I am Matheus Telles***</center>
-I am an entrepreneur and majoring in Software Engineering, a * developer in training *, working with a few different languages, * Python *, * PHP *, * JavaScript * and * Dart *.
+I am an entrepreneur and majoring in Software Engineering, a *developer in training*, working with a few different languages, *Python*, *PHP*, *JavaScript* and *Dart*.
 
 ### Things about me?
 I consider myself a smart worker and a collaborative team player. * Passionately curious * and I am always trying to innovate and undertake. I believe in * learning forever * and collaborative growth!
