@@ -11,7 +11,7 @@ I consider myself a smart worker and a collaborative team player. * Passionately
 * I like video games. Currently into *League of Legends* and *Valorant*. If you find anyone named *O Presidente*, that's probably me 🤘!
 * I also own some companies, which are my passion ❤
 
-<img src="https://github-readme-stats.vercel.app/api?username=emem365&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="right"/>
+<img src="" align="right"/>
 
 #### Find me here : 
 My Instagram is right here👉 [<img src = "https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=fff" />](http://instagram.com/mwtelles)
