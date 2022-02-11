@@ -1,3 +1,5 @@
+![Image containing the phrase: "I've learned more since the last time you've been here." with another image of Joao Nasc smiling](https://ik.imagekit.io/mwtelles/github_cover_telles_w5uWwtylr.png)
+
 # <center>***Hi👋, I am Matheus Telles***</center>
 I am an entrepreneur and majoring in Software Engineering, a *developer in training*, working with a few different languages, *Python*, *PHP*, *JavaScript* and *Dart*.
 
