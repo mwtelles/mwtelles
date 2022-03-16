@@ -50,8 +50,10 @@ I consider myself a smart worker and a collaborative team player. *Passionately 
  
 
 
-<head>
-<style type="text/css">
+<foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style type="text/css">
 .language-icon {
     margin-left: 5px;
 }
@@ -70,4 +72,8 @@ I consider myself a smart worker and a collaborative team player. *Passionately 
     filter: brightness(0) saturate(100%) invert(25%) sepia(11%) saturate(6439%) hue-rotate(248deg) brightness(98%) contrast(100%);
 }
 </style>
-</head>
+
+      <!-- your HTML -->
+
+    </div>
+</foreignObject>
