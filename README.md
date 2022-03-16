@@ -6,10 +6,12 @@ I am a Software Engineer graduated from Universidade de Vassouras in Brazil. At 
 
 I consider myself a smart worker and a collaborative team player. *Passionately curious* and I am always trying to innovate and undertake. I believe in *learning forever* and collaborative growth!
 
-### I speak three languages counting as my native language Brazilian Portuguese, I am fluent in English and intermediate in Spanish 
+### I speak three languages counting as my native language Brazilian Portuguese, I am fluent in English and intermediate in Spanish
+<div>
 <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
 <img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
 <img src="https://img.icons8.com/color/48/000000/spain-circular.png" height="30" width="30" title="Spanish"/>
+ </div>
 
 ### As a developer I have always looked for quality beyond the code, but at the moment I work with the following languages:
 <img alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
