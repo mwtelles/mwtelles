@@ -28,52 +28,22 @@ I consider myself a smart worker and a collaborative team player. *Passionately 
 ### in some cases you will see me using the following frameworks:
 
 <div>
-<img class="framework-icon" alt="Django" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title="Django" />
-<img class="framework-icon" id="fill-green" alt="Flask" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" />
-<img class="framework-icon" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" />
-<img class="framework-icon" alt="Vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" />
-<img class="framework-icon" alt="Node" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="Node" />
-<img class="framework-icon" alt="flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" title="flutter" />
+<img style="vertical-align: middle; margin-right: 5px;" alt="Django" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title="Django" />
+<img style="vertical-align: middle; margin-right: 5px;" style="filter: brightness(0) saturate(100%) invert(44%) sepia(25%) saturate(744%) hue-rotate(83deg) brightness(98%) contrast(94%);" alt="Flask" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" />
+<img style="vertical-align: middle; margin-right: 5px;" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" />
+<img style="vertical-align: middle; margin-right: 5px;" alt="Vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" />
+<img style="vertical-align: middle; margin-right: 5px;" alt="Node" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="Node" />
+<img style="vertical-align: middle; margin-right: 5px;"alt="flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" title="flutter" />
 </div>
 
 ### I'm a specialist, expert or lover of other things like:
 
 <div>
-<img class="other-icons" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
-<img class="other-icons" id="fill-purple" alt="Github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Github" />
-<img class="other-icons" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" />
+<img style="vertical-align: middle; margin-right: 5px;" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+<img style="vertical-align: middle; margin-right: 5px;" style="filter: brightness(0) saturate(100%) invert(25%) sepia(11%) saturate(6439%) hue-rotate(248deg) brightness(98%) contrast(100%);" alt="Github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Github" />
+<img style="vertical-align: middle; margin-right: 5px;" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" />
 </div>
 
 #
 ## I have others skills like:
 * Under construction
- 
-
-
-<foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-
-      <style type="text/css">
-.language-icon {
-    margin-left: 5px;
-}
-.framework-icon {
-    vertical-align: middle;
-    margin-right: 5px;
-}
-.other-icons {
-    vertical-align: middle;
-    margin-right: 5px;
-}
-#fill-green {
-    filter: brightness(0) saturate(100%) invert(44%) sepia(25%) saturate(744%) hue-rotate(83deg) brightness(98%) contrast(94%);
-}
-#fill-purple {
-    filter: brightness(0) saturate(100%) invert(25%) sepia(11%) saturate(6439%) hue-rotate(248deg) brightness(98%) contrast(100%);
-}
-</style>
-
-      <!-- your HTML -->
-
-    </div>
-</foreignObject>
