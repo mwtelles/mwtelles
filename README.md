@@ -29,7 +29,7 @@ I consider myself a smart worker and a collaborative team player. *Passionately 
 
 <div>
 <img style="vertical-align: middle; margin-right: 5px;" alt="Django" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title="Django" />
-<img style="vertical-align: middle; margin-right: 5px;" style="filter: brightness(0) saturate(100%) invert(44%) sepia(25%) saturate(744%) hue-rotate(83deg) brightness(98%) contrast(94%);" alt="Flask" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" />
+<img style="vertical-align: middle; margin-right: 5px; filter: brightness(0) saturate(100%) invert(44%) sepia(25%) saturate(744%) hue-rotate(83deg) brightness(98%) contrast(94%);" alt="Flask" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" />
 <img style="vertical-align: middle; margin-right: 5px;" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" />
 <img style="vertical-align: middle; margin-right: 5px;" alt="Vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" />
 <img style="vertical-align: middle; margin-right: 5px;" alt="Node" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="Node" />
