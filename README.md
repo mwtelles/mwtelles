@@ -3,25 +3,58 @@
 # <center>***Hi👋, I am Matheus Telles***</center>
 I am a Software Engineer graduated from Universidade de Vassouras in Brazil. At the moment I'm working with some languages like *Python*, *PHP* and *JavaScript*, but I like to say that a good developer has to be versatile, so I focus on quality and not on languages or frameworks.
 
-### Things about me?
+
 I consider myself a smart worker and a collaborative team player. *Passionately curious* and I am always trying to innovate and undertake. I believe in *learning forever* and collaborative growth!
 
-### Languagens i know:
-<img align="center" alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
-<img align="center" alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" />
-<img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" title="Python" />
-<img align="center" alt="PHP" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="PHP" />
+### I speak three languages counting as my native language Brazilian Portuguese, I am fluent in English and intermediate in Spanish 
+<img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
+<img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
+<img src="https://img.icons8.com/color/48/000000/spain-circular.png" height="30" width="30" title="Spanish"/>
 
-### Would love to talk to you about:
-![Git](https://img.shields.io/badge/-Flutter-46d1fd?style=flat-square&logo=flutter) ![Git](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![Git](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Git](https://img.shields.io/badge/-GitHub-8332AC?style=flat-square&logo=github)  ![Git](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)   ![Git](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) ![Git](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)  
+### As a developer I have always looked for quality beyond the code, but at the moment I work with the following languages:
+<img alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+<img class="language-icon"alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript" />
+<img class="language-icon" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" title="Python" />
+<img class="language-icon" alt="PHP" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="PHP" />
+<img class="language-icon" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" title="Java" />
+<img class="language-icon" alt="Dart" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg" title="Dart" />
+
+### in some cases you will see me using the following frameworks:
+<img class="framework-icon" alt="Django" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" title="Django" />
+<img class="framework-icon" id="fill-green" alt="Flask" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" title="Flask" />
+<img class="framework-icon" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" />
+<img class="framework-icon" alt="Vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue" />
+<img class="framework-icon" alt="Node" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="Node" />
+<img class="framework-icon" alt="flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" title="flutter" />
+
+### I'm a specialist, expert or lover of other things like:
+<img class="other-icons" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+<img class="other-icons" id="fill-purple" alt="Github" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Github" />
+<img class="other-icons" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" />
+
+#
+## I have others skills like:
+* Under construction
  
-### Other than the techy stuff:
-* I like video games. Currently into *League of Legends* and *Valorant*. If you find anyone named *O Presidente*, that's probably me 🤘!
-* I also own some companies, which are my passion ❤
 
-<img src="https://github-readme-stats.vercel.app/api?username=mwtelles&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" align="right"/>
 
-#### Find me here : 
-My Instagram is right here👉 [<img src = "https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=fff" />](http://instagram.com/mwtelles)
 
-My LinkedIn is right here👉  [<img src = "https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=fff" />](https://www.linkedin.com/mwlite/in/mwtelles) 
+<style type="text/css">
+.language-icon {
+    margin-left: 5px;
+}
+.framework-icon {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.other-icons {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+#fill-green {
+    filter: brightness(0) saturate(100%) invert(44%) sepia(25%) saturate(744%) hue-rotate(83deg) brightness(98%) contrast(94%);
+}
+#fill-purple {
+    filter: brightness(0) saturate(100%) invert(25%) sepia(11%) saturate(6439%) hue-rotate(248deg) brightness(98%) contrast(100%);
+}
+</style>
