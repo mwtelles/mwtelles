@@ -7,7 +7,7 @@
 
 ### Hey! Welcome to my profile on Github
 
-My name is Matheus Werneck Telles and i am a Software Engineering graduate in Universidade de Vassouras and i'm working as a frontend developer.
+My name is Matheus Werneck Telles, i am a Software Engineering graduate in Universidade de Vassouras and i'm working as a frontend developer.
 
 - ✅ HTML / CSS / JavaScript
 - 📕 Learning React, Next, Node.js and TS
@@ -19,7 +19,7 @@ At the moment i'm open to work, so if you have any opportunity, please contact m
 
 ### Olá! Bem vindo ao meu Github
 
-Meu nome é Matheus Werneck Telles e sou formado em Engenharia de Software pela Universidade de Vassouras e trabalho como desenvolvedor frontend.
+Meu nome é Matheus Werneck Telles, sou formado em Engenharia de Software pela Universidade de Vassouras e trabalho como desenvolvedor frontend.
 
 - ✅ HTML / CSS / JavaScript
 - 📕 Estudando React, Next, Node.js and TS
