@@ -28,7 +28,5 @@ Meu nome é Matheus Werneck Telles, sou formado em Engenharia de Software pela U
 No momento estou aberto a receber propostas de trabalho, então se você tiver alguma oportunidade, por favor entre em contato.
 
 <div>
-<img height='180em' src="https://github-readme-stats.vercel.app/api?username=mwtelles&theme=light&show_icons=true" />
-  
-  <img height='215em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mwtelles&layout=compact&theme=light' />
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mwtelles&layout=compact&theme=light' />
 </div>
