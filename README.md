@@ -4,6 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwtelles/)](https://www.linkedin.com/in/mwtelles/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:business.mwtelles@gmail.com)](mailto:business.mwtelles@gmail.com)
 [![Rocketseat Badge](https://img.shields.io/badge/Rocketseat-8257e5?style=flat-square&link=https://app.rocketseat.com.br/me/mwtelles)](https://app.rocketseat.com.br/me/mwtelles)
+[![Alura Badge](https://img.shields.io/badge/Alura-2A7AE4?style=flat-square&link=https://cursos.alura.com.br/user/mwtelles)](https://cursos.alura.com.br/user/mwtelles)
 
 ### Hey! Welcome to my profile on Github
 
