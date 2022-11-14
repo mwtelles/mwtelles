@@ -14,7 +14,7 @@ My name is Matheus Werneck Telles, i am a Software Engineering graduate in Unive
 - 📕 Learning React, Next, Node.js and TS
 - 📖 I have interest in Vue and React Native
 
-I also work as front end developer at <a href="https://www.smartnx.com/" target="_blank">Smart Nx</a>.
+I also work as front end developer at <a href="https://www.smartnx.com/" target="_blank">Smart Nx 💙</a>.
 
 # Português
 
@@ -26,7 +26,7 @@ Meu nome é Matheus Werneck Telles, sou formado em Engenharia de Software pela U
 - 📕 Estudando React, Next, Node.js and TS
 - 📖 Tenho interesse em Vue e React Native
 
-Também trabalho como Desenvolvedor Front-end na <a href="https://www.smartnx.com/" target="_blank">Smart Nx</a>.
+Também trabalho como Desenvolvedor Front-end na <a href="https://www.smartnx.com/" target="_blank">Smart Nx 💙</a>.
 
 <div>
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mwtelles&layout=compact&theme=light' />
