@@ -66,8 +66,6 @@
 - **Inglês**: Leitura e escrita avançadas, conversação em desenvolvimento.
 - **Outros Idiomas**: Alta absorção para conteúdos, aberto para aprender novos idiomas.
 
-Compreendo, ressaltar que você está buscando certificações e trabalhando em uma publicação valiosa pode mostrar seu compromisso contínuo com o desenvolvimento profissional. Vou incorporar esses pontos em sua seção de "Aprendizado Contínuo e Contribuições".
-
 ## 🌱 Aprendizado Contínuo e Contribuições
 
 - **Graduação**: Bacharel em Engenharia de Software na Universidade de Vassouras.
@@ -78,7 +76,6 @@ Compreendo, ressaltar que você está buscando certificações e trabalhando em 
 ## 🎖️ Testemunhos
 
 > "Feedback pendente: Ainda aguardando o pull request ser revisado para fornecer um testemunho impressionante!" - Futuro Colaborador Impressionado
-
 
 ## 🛠️ Masterpieces de Desenvolvimento: Do Planejamento à Produção
 
