@@ -11,16 +11,6 @@
 
 ## Experiência Profissional 🛠️
 
-### 🏢 Serra Desenvolvimento e Marketing Ltda. (2020 - 2022)
-- **Resumo**: Fundador e líder técnico responsável pela definição de modelos de trabalho e arquitetura de soluções empresariais e de software.
-- **Competências em Destaque**: 
-  - Definição e implementação de estratégias de negócio e tecnologia.
-  - Estabelecimento de padrões de arquitetura de software e negócios.
-- **KPIs**:
-  - **Aquisição de Clientes**: Aumento de 80% na aquisição de novos clientes desde o primeiro contato até a entrega do produto final.
-  - **Eficiência de Desenvolvimento**: Melhora na eficiência do processo de desenvolvimento em 40%.
-  - **Redução de Custos**: Diminuição dos custos operacionais em 20%.
-
 ### 💻 Smart NX (2022 - Presente)
 - **Resumo**: Engenheiro de Software Front-End.
 - **Competências em Destaque**: 
@@ -30,6 +20,16 @@
   - **Entrega Confiável**: Cumprimento de prazos de entrega com margem, e com uma taxa de retrabalho significativamente baixa devido a bugs.
   - **Alta Performance**: Adesão a padrões de entrega de alto nível com eficácia comprovada através de metodologias como Scrum.
   - **Agilidade Adaptativa**: Alta capacidade de adaptação a mudanças de escopo e prazos apertados, mantendo a qualidade e a eficiência.
+
+### 🏢 Serra Desenvolvimento e Marketing Ltda. (2020 - 2022)
+- **Resumo**: Fundador e líder técnico responsável pela definição de modelos de trabalho e arquitetura de soluções empresariais e de software.
+- **Competências em Destaque**: 
+  - Definição e implementação de estratégias de negócio e tecnologia.
+  - Estabelecimento de padrões de arquitetura de software e negócios.
+- **KPIs**:
+  - **Aquisição de Clientes**: Aumento de 80% na aquisição de novos clientes desde o primeiro contato até a entrega do produto final.
+  - **Eficiência de Desenvolvimento**: Melhora na eficiência do processo de desenvolvimento em 40%.
+  - **Redução de Custos**: Diminuição dos custos operacionais em 20%.
 
 ### 🚀 Freelancer (2018 - 2019, 2019 - 2020)
 - **Resumo**: Freelancer Full Stack com um foco em soluções de alto impacto e desempenho. Desenvolvimento de projetos desde landing pages a plataformas de software completas, incluindo para a Universidade de Vassouras e a Universidade Federal Rural do Rio de Janeiro.
