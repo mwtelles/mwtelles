@@ -1,6 +1,6 @@
 # Greetings! 👋 I'm Telles, The Engineer 🚀
 
-I’m not just a Software Engineer with over a decade of experience in programming, my journey extends beyond holding a Bachelor's degree in Software Engineering and a postgraduate specialization in Software Architecture. I delve into the digital depths, exploring and solving complex web phenomena — from understanding browser intricacies to architecting scalable, innovative solutions.
+With over a decade of experience in programming, my journey extends beyond holding a Bachelor's degree in Software Engineering and a postgraduate specialization in Software Architecture. I delve into the digital depths, exploring and solving complex web phenomena — from understanding browser intricacies to architecting scalable, innovative solutions.
 
 In the realm of Front-End development, my expertise is not confined to mere aesthetics or functionality. Instead, it represents a harmonious fusion of both, propelled by my mastery of JavaScript, React, React Native, and Node.js. Here, I not only craft interfaces but also engineer experiences that resonate with users, setting new benchmarks in usability and design integration.
 
