@@ -24,7 +24,7 @@ Whether it’s for a project collaboration, mentorship, or a casual chat about t
 
 [🔗 Connect on LinkedIn](https://linkedin.com/in/mwtelles) for professional networking.
 
-[🌐 Visit My Portfolio](https://portfolio.mwtelles.com.br) to see my work in action.
+[🌐 Visit My Portfolio](https://mwtelles.com.br) to see my work in action.
 
 [✍️ Explore My Website](https://mwtelles.com.br) for insights into my programming journey and more.
 
